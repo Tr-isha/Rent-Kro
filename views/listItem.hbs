@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>List an Item</title>
+  <link rel="stylesheet" href="/css/styles.css">
+  <script defer src="/js/animations.js"></script>
+</head>
+<body>
+    {{> navbar}}
+
+  <h1>List Item for Rent</h1>
+  <form action="/items/list" method="POST">
+    {{!-- <input name="ownerId" placeholder="Owner ID" required> --}}
+    <input name="name" placeholder="Item Name" required>
+    <input name="value" placeholder="Market Value (₹)" required type="number">
+    <input name="rentPrice" placeholder="Rent Price (₹)" required type="number">
+    <input name="category" placeholder="Category" required>
+    <input name="city" placeholder="City" required>
+    <input name="image" placeholder="Image URL">
+    <button type="submit">List Item</button>
+  </form>
+</body>
+</html>
