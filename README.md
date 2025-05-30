@@ -52,4 +52,12 @@ Authentication & Realtime: Firebase (optional)
 
 🧑‍💻 Team
 Made with 💙 by developers passionate about simplifying rentals and building trust in peer-to-peer commerce.
+![mainsr](https://github.com/user-attachments/assets/ddb07919-3064-49b8-8494-747453a87b12)
+![signupr](https://github.com/user-attachments/assets/2d3152a6-b60c-4ebf-a4fc-e380b750f537)
+![itemsr](https://github.com/user-attachments/assets/2608eb4b-3dbd-49fb-b7b8-593af88a8972)
+![depr](https://github.com/user-attachments/assets/284c73ff-e09d-4947-9840-ac333fbea565)
+![loginr](https://github.com/user-attachments/assets/aca9b300-5c8e-4c5e-bf30-3350442cf266)
+![footer](https://github.com/user-attachments/assets/6bea9fc3-fbd1-4762-a001-326167b8b1d8)
+
+
 
